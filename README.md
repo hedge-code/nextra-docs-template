@@ -1,4 +1,6 @@
-# Nextra Docs Template 
+# Nextra docs template hosted on the github pages
+
+> This template has been adapted to allow its publication via github pages.
 
 This is a template for creating documentation with [Nextra](https://nextra.site).
 
